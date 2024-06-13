@@ -7,3 +7,6 @@
 * 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/tymechopkins/)
 
 ## Software Proficiency
+
+
+## Connect with Me

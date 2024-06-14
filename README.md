@@ -1,6 +1,5 @@
-# Welcome to my GitHub
+# Hello, I'm Tyme 👋
 ## About Me
-* 👋 Hello everyone, I’m Tyme Hopkins
 * 👀 I’m interested in embedded systems security projects and STEAM education development.
 * 📚 I’m currently learning embedded systems security basics, various hardware reverse engineering techniques, and research and development practices.
 * 🤝 I am looking to collaborate on anything embedded systems related or STEAM education oriented.

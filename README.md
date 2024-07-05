@@ -1,7 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=35&duration=2000&pause=1000&color=000000&random=false&width=510&height=50&lines=Hello%2C+my+name+is+Tyme+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-## About Me 😃
+## About Me 👷‍♂️
 Passionate about both embedded systems security and STEAM education, I'm actively learning the fundamentals of embedded systems reverse engineering. Constantly striving to improve my research and development practices, I'm always looking to collaborate on projects that push the boundaries of embedded systems security or ignite a passion for STEAM in others. Let's connect!
+
+## Project List 📚
+* STM32 Nucleo-F746ZG Calculator
+* STM32 Nucleo-F746ZG Christmas Lights Timer Controller
+* Modular Robotic Test Platform (MRTP) Capstone Project
 
 ## Software Proficiency 🧑‍💻
 ### Programming Languages
